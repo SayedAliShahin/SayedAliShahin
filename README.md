@@ -26,7 +26,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
   <img src="https://img.shields.io/badge/Data%20Analysis-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Data%20Vizualization-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Time%20Series-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge"> </p>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge"> </p>
 
 ### Education  
 - **Master in Economics & Business**, Universitas Islam International Indonesia
