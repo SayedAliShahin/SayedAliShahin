@@ -35,7 +35,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 ### Certifications 
 
 - **Coursera:** Data Professional Data Analysis
-- **UIII:** STATA
+
 
 ### GitHub Stats 
 <p align="center">
