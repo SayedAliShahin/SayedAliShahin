@@ -2,4 +2,4 @@
 
 📍 Indonesia  
 📧 Email: Sayed.shahin@students.uiii.ac.id   
-🔗 LinkedIn:(linkedin.com/in/sayed-ali-shahin-0ab5a8398) 
+🔗 Linkedin: [S.Ali shahin](https://www.linkedin.com/in/sayed-ali-shahin-0ab5a8398/?isSelfProfile=true)
