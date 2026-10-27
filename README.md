@@ -30,7 +30,7 @@ My background combines from **data analytics with real-world business operations
 
 ### Afriment B2B & Social Analytics Pipeline
 **Tools:** Google Sheet | Excel 
-→ [View Project](YOUR_GITHUB_LINK)
+→ [View Project](https://github.com/SayedAliShahin/Afriment_B2B_And_Social_Media_Analytics_Pipeline.git)
 
 ### Amazon Fulfillment Center Employee Voice Analysis
 **Tools:** Python / Sentiment Analysis / Thematic Analysis / Data Visualization  
