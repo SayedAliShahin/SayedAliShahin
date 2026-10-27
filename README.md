@@ -34,7 +34,7 @@ My background combines from **data analytics with real-world business operations
 
 ### Amazon Fulfillment Center Employee Voice Analysis
 **Tools:** Python / Sentiment Analysis / Thematic Analysis / Data Visualization  
-→ [View Project](YOUR_GITHUB_LINK)
+→ [View Project](https://github.com/SayedAliShahin/Amazon_Fulfillment_Centers_Employee_Voice_Analysis.git)
 
 
 ## Education
