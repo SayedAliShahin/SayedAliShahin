@@ -12,14 +12,14 @@ I use **SQL, Excel, Power BI, and Python** to clean and analyze data, identify p
 
 My background combines from **data analytics with real-world business operations**, including retail sales, inventory, workforce analytics and social media analysis.
 
-## 🔧 Skills
+## Skills
 
 **Data & Analytics:** SQL, Excel, Python, Pandas, Data Cleaning, Data Validation, Exploratory Analysis
 
 **Business Intelligence:** Power BI, DAX, Dashboards, KPI Reporting, Data Visualization
 
 
-## 📊 Featured Projects
+## Projects
 
 ### Afriment B2B & Social Analytics Pipeline
 **Tools:** Google Sheet | Excel 
@@ -30,7 +30,7 @@ My background combines from **data analytics with real-world business operations
 → [View Project](YOUR_GITHUB_LINK)
 
 
-## 🎓 Education
+## Education
 
 - **MA Economics & Business** 
 (UIII) — Indonesia
