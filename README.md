@@ -1,11 +1,17 @@
 ### Hello, I'm Ali! 👋
 ### Business Operations Analyst | Data Analyst
 
+---
+
 📍 Indonesia  
 📧 Email: Sayed.shahin@students.uiii.ac.id   
 🔗 Linkedin: [S.Ali shahin](https://www.linkedin.com/in/sayed-ali-shahin-0ab5a8398/?isSelfProfile=true)
 
+--- 
+
 ### About Me
+
+
 I’m an MA Economics & Business student and a Business Operations Analyst with hands-on experience in data analysis, business operations, reporting, and decision support.
 
 I use **SQL, Excel, Power BI, and Python** to clean and analyze data, identify performance patterns, and utilize analysis findings to develop business recommendations and support decisions.
@@ -21,6 +27,7 @@ My background combines from **data analytics with real-world business operations
 
 ## Projects
 
+
 ### Afriment B2B & Social Analytics Pipeline
 **Tools:** Google Sheet | Excel 
 → [View Project](YOUR_GITHUB_LINK)
@@ -31,6 +38,7 @@ My background combines from **data analytics with real-world business operations
 
 
 ## Education
+
 
 - **MA Economics & Business** 
 (UIII) — Indonesia
