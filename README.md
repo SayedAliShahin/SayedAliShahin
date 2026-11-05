@@ -3,9 +3,9 @@
 **Operations & Business Data Analyst** · Excel · SQL · Power BI · Python
 Open to remote roles: Data Analyst, Business Analyst, Operations Analyst
 
-## About
+## About Me
 
-MA Economics & Business student (UIII, Indonesia) who turns messy operational data into clear, prioritized recommendations. I've worked on a data analytics internship, analyzed warehouse inventory in SQL, and ran my own small business, tracking sales and inventory daily in Excel. Fluent in English, available for remote work.
+MA Economics student (UIII, Indonesia) who turns messy operational data into clear, prioritized recommendations. I've worked on a data analytics internship, analyzed warehouse inventory in SQL, and ran my own small business, tracking sales and inventory daily in Excel. Fluent in English, available for remote work.
 
 ## Technical Skills
 
