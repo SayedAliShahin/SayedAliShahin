@@ -17,7 +17,7 @@ MA Economics student (UIII, Indonesia) who turns messy operational data into cle
 
 ## Featured Projects
 
-**[Mint Classic Inventory Optimization](REPO-LINK-HERE)** · SQL (MySQL)
+**[Mint Classic Inventory Optimization](https://github.com/SayedAliShahin/Mint_Classic_Company_Warehouse_Consolidation_Inventory_Optimization_Analysis.git)** · SQL (MySQL)
 Which of four warehouses can close without breaking 24-hour fulfillment? Found Warehouse C (about 50% utilization, 23 of 24 products overstocked) and a two-warehouse redistribution plan.
 
 **[Afriment B2B & Social Analytics Pipeline](https://github.com/SayedAliShahin/Afriment_B2B_And_Social_Media_Analytics_Pipeline)** · Excel, Google Sheets
