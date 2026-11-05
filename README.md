@@ -12,15 +12,15 @@
 ### About Me
 
 
-I’m an MA Economics & Business student and a Business Operations Analyst with hands-on experience in data analysis, business operations, reporting, and decision support.
+I’m an MA Economics student and a Business Operations Analyst with hands-on experience in data analysis, business operations, reporting, and decision support.
 
-I use **SQL, Excel, Power BI, and Python** to clean and analyze data, identify performance patterns, and utilize analysis findings to develop business recommendations and support decisions.
+I use **SQL, Excel and Power BI** to clean and analyze data, identify performance patterns, and utilize analysis findings to develop business recommendations and support decisions.
 
 My background combines from **data analytics with real-world business operations**, including retail sales, inventory, workforce analytics and social media analysis.
 
 ## Skills
 
-**Data & Analytics:** SQL, Excel, Python, Pandas, Data Cleaning, Data Validation, Exploratory Analysis
+**Data & Analytics:** SQL, Excel, Data Cleaning, Data Validation, Exploratory Analysis
 
 **Business Intelligence:** Power BI, DAX, Dashboards, KPI Reporting, Data Visualization
 
