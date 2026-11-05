@@ -1,19 +1,19 @@
 # Sayed Ali Shahin
 
 **Data & Business Operations Analyst** · Excel · SQL · Power BI · Python
-Open to remote entry-level roles: Data Analyst, Business Analyst, Operations Analyst, Retail Analyst, Data Associate
+Open to remote roles: Data Analyst, Business Analyst, Operations Analyst
 
 ## About
 
 MA Economics & Business student (UIII, Indonesia) who turns messy operational data into clear, prioritized recommendations. I've worked on a data analytics internship, analyzed warehouse inventory in SQL, and ran my own small business, tracking sales and inventory daily in Excel. Fluent in English, available for remote work.
 
-## Tech Stack
+## Technical Skills
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+**Analysis & BI:** Excel · Power BI · Google Sheets
+
+**Databases & Languages:** SQL (MySQL) · Python
+
+**Methods:** Data cleaning · Data Validation · Inventory analysis · KPI reporting · Exploratory analysis · People Analytics 
 
 ## Featured Projects
 
