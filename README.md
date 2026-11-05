@@ -1,6 +1,6 @@
 # Sayed Ali Shahin
 
-**Data & Business Operations Analyst** · Excel · SQL · Power BI · Python
+**Operations & Business Data Analyst** · Excel · SQL · Power BI · Python
 Open to remote roles: Data Analyst, Business Analyst, Operations Analyst
 
 ## About
