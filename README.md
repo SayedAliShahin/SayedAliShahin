@@ -1,11 +1,11 @@
 # Sayed Ali Shahin
 
 **Operations & Business Data Analyst** · Excel · SQL · Power BI · Python
-Open to remote roles: Data Analyst, Business Analyst, Operations Analyst
+Open to remote roles
 
 ## About Me
 
-MA Economics student (UIII, Indonesia) who turns messy operational data into clear, prioritized recommendations. I've worked on a data analytics internship, analyzed warehouse inventory in SQL, and ran my own small business, tracking sales and inventory daily in Excel. Fluent in English, available for remote work.
+I am currently perusing my MA in Economics at(UIII) in Indonesia. I turns messy operational data into clear, prioritized recommendations. I've worked on a data analytics internship, analyzed warehouse inventory in SQL, presented a 4-week pilot intervention to Amazon Fulfillment Centers' stakeholders and ran my own small business, tracking sales and inventory daily in Excel. Fluent in English, available for remote work.
 
 ## Technical Skills
 
