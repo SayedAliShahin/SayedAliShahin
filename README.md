@@ -17,7 +17,7 @@ I am currently perusing my MA in Economics at(UIII) in Indonesia. I have been wo
 ## Featured Projects
 
 **[Mint Classic Inventory Optimization](https://github.com/SayedAliShahin/Mint_Classic_Company_Warehouse_Consolidation_Inventory_Optimization_Analysis.git)** · SQL (MySQL)
-Which of four warehouses can close without breaking 24-hour fulfillment? Found Warehouse D (lowest number of units, lowest share of profit, lowest number of products with 1:18 as dominant product scale) and a warehouses redistribution plan.
+Which of four warehouses can close without breaking 24-hour fulfillment? Found that Warehouse D (lowest number of units, lowest share of profit, lowest number of products with 1:18 as dominant product scale) as the best closure candidate, yet after monitoring for the highly overstocked products for possible selling and reduction before relocation.
 
 **[Afriment B2B & Social Analytics Pipeline](https://github.com/SayedAliShahin/Afriment_B2B_And_Social_Media_Analytics_Pipeline)** · Excel, Google Sheets
 Scored 176 B2B entities into 97 qualified outreach targets and classified 297 posts to find the best-performing content format.
